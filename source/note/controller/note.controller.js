@@ -1,5 +1,7 @@
 const noteService = require("../service/note.service");
 
+const fieldsParsingService = require("../../../validation/fieldsParsing.service")
+
 module.exports = {
     async listScale(req, res, next){
         console.log("Scale")
