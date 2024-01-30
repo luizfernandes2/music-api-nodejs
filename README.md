@@ -1,22 +1,19 @@
-# API Music (In construction)
+# Music API (In construction)
 
-Este projeto é uma API de música desenvolvida em Node.js e JavaScript, criada com o objetivo de unir o estudo musical com a programação backend. 
+This project is a music API developed in Node.js and JavaScript, created with the aim of combining musical studies with backend programming.
 
-## A API irá oferecer três endpoints principais:
+## The API will provide three main endpoints:
 
-1º- Endpoint de Escala Musical:
-'/scale' - Recebe uma nota musical como entrada e retorna a escala musical correspondente a partir dessa nota.
+1º- Scale Endpoint: /scale - Takes a musical note as input and returns the corresponding musical scale based on that note.
 
-2º- Endpoint de Acordes:
-'/chord' - Recebe uma nota musical como entrada e retorna as notas necessárias para formar acordes maior e menor associados à nota de entrada.
+2º- Chord Endpoint: /chord - Takes a musical note as input and returns the necessary notes to form major and minor chords associated with the input note.
 
-3º- Endpoint de Campo Harmônico:
-'/harmonic-field' - Recebe uma nota musical como entrada e retorna o campo harmônico maior e menor correspondente à nota de entrada.
+3º- Harmonic Field Endpoint: /harmonic-field - Takes a musical note as input and returns the major and minor harmonic fields corresponding to the input note.
 
-## Funcionalidades Adicionais:
-Utiliza o framework Express em Node.js 
+## Additional Features:
 
-Desenvolvido como parte da fixação do estudo musical e integração com conhecimentos de programação backend.
+Utilizes the Express framework in Node.js.
 
-Este projeto representa uma união entre paixões, combinando o estudo musical com habilidades em programação backend, 
-proporcionando uma experiência enriquecedora para entusiastas de música com interesse em tecnologia.
+Developed as part of solidifying musical studies and integrating with backend programming knowledge.
+
+This project represents a fusion of passions, blending musical studies with backend programming skills, providing an enriching experience for music enthusiasts with an interest in technology.
