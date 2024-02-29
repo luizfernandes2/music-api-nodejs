@@ -16,6 +16,7 @@
     "http": "^0.0.1-security",
     "json-bigint-patch": "^0.0.8",
     "nodemon": "^3.0.3",
+    "remove-accents": "^0.5.0",
     "ua-parser-js": "^1.0.37"
   }
 }
